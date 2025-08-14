@@ -171,3 +171,5 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 https://live2-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-chno="931" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rtvsanmarino.png" group-title="Radio",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-id="Canale 3 Toscana" tvg-chno="84" tvg-logo="https://www.canale3.tv/wp-content/uploads/2024/07/cropped-cropped-Logo-canale-3.png" group-title="Altro",Canale 3 Toscana
+https://router.xdevel.com/video0s976737-1453/stream/playlist.m3u8
