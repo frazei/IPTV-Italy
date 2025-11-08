@@ -5,8 +5,9 @@ Repository containing a playlist of Italian TV channels.
 ## Usage
 Copy the link below and add it to your favorite `IPTV Player`.
 
-|    **iptvita.m3u**  |   https://github.com/frazei/IPTV-Italy/raw/main/iptvitaly.m3u    |
-|--------------------:|:----------------------------------------------------------------:|
+```link
+https://github.com/frazei/IPTV-Italy/raw/main/iptvitaly.m3u
+```
 
 ## [EPG](https://en.wikipedia.org/wiki/Electronic_program_guide) 
 
